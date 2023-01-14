@@ -1,0 +1,21 @@
+[ {
+  "uid" : "10d14740b17f2e18",
+  "name" : "Flipkart Book Purchase: Pass",
+  "time" : {
+    "start" : 1673696344282,
+    "stop" : 1673696378397,
+    "duration" : 34115
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e739735cbb37461b",
+  "name" : "Flipkart Book Purchase: Fail",
+  "time" : {
+    "start" : 1673696378451,
+    "stop" : 1673696409162,
+    "duration" : 30711
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]
